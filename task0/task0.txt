@@ -1,0 +1,11 @@
+both screenshots are attached in this folder
+
+it took too long 
+
+my windows was not up to date, i had difficulties upgrading and downloading docker 
+
+
+in old version of windows set RUST_LOG=info didn't work at all 
+
+
+it only worked on new version of windows 
