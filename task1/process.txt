@@ -1,3 +1,5 @@
 note: the address is ckt1qyqwamxgp2e74qzk60vw3wclzeyf2frr25xsuernkn
 
+link : https://explorer.nervos.org/aggron/address/ckt1qyqwamxgp2e74qzk60vw3wclzeyf2frr25xsuernkn
+
 testnet address : ckt1qyqwamxgp2e74qzk60vw3wclzeyf2frr25xsuernkn
