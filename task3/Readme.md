@@ -4,14 +4,14 @@
 
 <h2> 2- The transaction hash from the console output (in text format). </h2>
 
-`<addr>` 0x832d9ce5b3341af5f35e9765095fbe6332a57d37cffc7a471ff88d714ab05abf
+`0x832d9ce5b3341af5f35e9765095fbe6332a57d37cffc7a471ff88d714ab05abf`
 
 <h3> 3- The contract address that you called (in text format). </h3>
 
-<addr> 0x895E9EF5d24a566bF8420fb57B525a6685d91eEe
+`0x895E9EF5d24a566bF8420fb57B525a6685d91eEe`
   
 <h4>  4- The ABI for contract you made a call on (in text format). </h4>
-  <addr>[
+`[
   {
     "inputs": [],
     "stateMutability": "payable",
@@ -43,7 +43,7 @@
     "stateMutability": "view",
     "type": "function"
   }
-]
+]`
 
   
 
