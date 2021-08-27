@@ -4,7 +4,7 @@
 
 <h2> 2- The transaction hash from the console output (in text format). </h2>
 
-`0x832d9ce5b3341af5f35e9765095fbe6332a57d37cffc7a471ff88d714ab05abf`
+0x832d9ce5b3341af5f35e9765095fbe6332a57d37cffc7a471ff88d714ab05abf
 
 <h3> 3- The contract address that you called (in text format). </h3>
 
