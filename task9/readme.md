@@ -1,6 +1,7 @@
 1- A screenshot of the console output immediately after running the withdraw command.
 
-![L2 to L1 withdraw](https://user-images.githubusercontent.com/83914557/131041501-cd6a4626-91f4-43b5-a354-380bece596cc.png)
+![L2 to L1 withdraw](https://user-images.githubusercontent.com/83914557/131673987-59ee53d4-3726-4843-b765-0bc83b8fd7c5.png)
+
 
 2- The Ethereum address that you've used for your Layer 2 account (in text format).
 
