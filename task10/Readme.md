@@ -4,8 +4,8 @@
 
 <h2> The Ethereum address that you've used for your Layer 2 account (in text format). </h2>
 
-'0xa629f85Ae0574495C281d7aab958a0fb9c8B3F08'
+`0xa629f85Ae0574495C281d7aab958a0fb9c8B3F08`
 
 <h2> The Nervos Layer 1 address associated with the private key passed to "unlock" command (in text format). This is "ckb address" in the console output. </h2>
 
-'ckt1qyqwamxgp2e74qzk60vw3wclzeyf2frr25xsuernkn'
+`ckt1qyqwamxgp2e74qzk60vw3wclzeyf2frr25xsuernkn`
